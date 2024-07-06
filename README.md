@@ -1,4 +1,4 @@
-## SQL Server to PostgreSQL Data Extraction and Loading Project
+## CSV and SQL Server data to PostgreSQL: Extraction and Loading Project
 
 ### Project Description:
 This project automates the extraction of data from SQL Server and its loading into PostgreSQL using Python scripts. It aims to facilitate seamless data migration and synchronization between two different database systems.
