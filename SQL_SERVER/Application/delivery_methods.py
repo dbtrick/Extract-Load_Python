@@ -23,7 +23,8 @@ def extract():
         query = """
         SELECT t.name AS table_name
         FROM sys.tables t
-        WHERE t.name IN ('DeliveryMethods')
+        WHERE t.name IN ('DeliveryMethods
+        ')
         """
         src_tables = pd.read_sql_query(query, src_conn).to_dict()['table_name']
 
