@@ -1,6 +1,6 @@
 ### Project Overview:
 
-For this project, I worked with a sample client, WideWorldImporters, to manage their business data. Using various tools and technologies, I created a streamlined workflow for data extraction and loading. The dataset provided by WideWorldImporters includes comprehensive information about their business operations, available at the following link: ![WideWorldImporters Sample Datasets.](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0)
+For this project, I worked with a sample client, WideWorldImporters, to manage their business data. Using various tools and technologies, I created a streamlined workflow for data extraction and loading. The dataset provided by WideWorldImporters includes comprehensive information about their business operations, available at the following link: [WideWorldImporters Sample Datasets.](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0)
 
 ![modern-data-stack (6)](https://github.com/dbtrick/Extract-Load_Python/assets/172040645/fdfe9ef8-4a72-418d-9889-8ce82a5100be)
 ## Key Components and Workflow:
